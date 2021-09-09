@@ -1,0 +1,146 @@
+.nav-item.nav-link.small{
+  font-size: 0.9rem;
+}
+
+.nav-link.nav-gap{
+  margin-left: -4px !important;
+  margin-right: -4px !important;
+}
+
+.header-top{
+background-color:#414228;
+
+
+}
+
+.middle-header{
+  background-image: url(../images/header_img.png);
+  background-repeat: no-repeat;
+  background-color: #fff;
+  background-position: right bottom;
+}
+.header-bottom{
+  background-color: #68820c;
+}
+.new{
+  background-color: #d43c18;
+}
+.hello{
+  background: url(/wp-content/uploads/cloud-bg.png) #f0eddc;
+  background-repeat: no-repeat;
+  margin-top: 3rem;
+}
+ul{
+    list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+li{
+  text-align: left;
+}
+.footer_
+{
+  color: #bd1e31;
+  font-size: 1em;
+  font-weight: 800;
+  line-height: 1.7em;
+}
+.HI{
+  background-color: #858585;
+}
+.section_our{
+ background: url(/wp-content/uploads/bg-child.png); 
+  padding-top: 40px;
+}
+.testimonial{
+  background: url(../images/bg-child.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.test{
+  background: url(../images/bg-child.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  height: 400px;
+ 
+
+}
+.testo1{
+  background: #d43c18;
+
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 40px;
+padding-bottom: 40px;
+
+}
+.but1{
+  margin-top: 100px;
+}
+
+body {
+  position: relative;
+}
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  background: none;
+}
+.fo_bg{
+  padding: 40px;
+background:url(../images/Grass-ASHA.png) ;
+background-repeat: no-repeat;
+background-size: cover;
+color:#fff;
+width: 100%;
+}
+.header-bottom1{
+  background-color: turquoise;
+}
+.into{
+
+height: 300px;
+width: 65%;
+float: left; 
+  
+}
+.inot1{
+  height: 80px;
+  width: 150;
+
+}
+.into2{
+  border-bottom: 5px solid red;
+}
+.logo1{
+  display: block;
+  max-width: 1436.5px;
+  filter: brightness(40%);
+ 
+
+
+  /* margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
+}
+.circle-icon {
+  background: #ffc0c0;
+  padding:30px;
+  border-radius: 50%;
+}
+.mar{
+  margin-right: 50px;
+}
+.fo_bg1{
+  padding: 40px;
+background:url(../images/kids-sitting.png) ;
+background-repeat: no-repeat;
+background-size: cover;
+/* color:#fff; */
+width: 100%;
+height: 30px;
+}
